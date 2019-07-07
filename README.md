@@ -1,2 +1,1 @@
-# V2ray
-V2ray
+aHR0cHM6Ly93d3cudml5dW4ueHl6L2xpbmsvNVVmZkpuZ1lPN0QxcU8xUz9tdT0z
